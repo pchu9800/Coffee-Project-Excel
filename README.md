@@ -1,4 +1,4 @@
-# Coffee Sales Performance Dashboard (Microsoft Excel)
+# ☕ Coffee Sales Performance Dashboard (Microsoft Excel)
 
 Interactive Excel dashboard for coffee sales analytics, exploring customer behavior, sales trends, and product performance across regions and roast types.
 
